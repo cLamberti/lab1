@@ -23,7 +23,7 @@ import java.util.ArrayList;
       System.out.println("Muuu");
       }
       }
-    public class Main {
+    public class lab1 {
     public static void main(String[] args) {
 
     ArrayList<Animal> Animals = new ArrayList<>();
